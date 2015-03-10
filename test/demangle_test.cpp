@@ -11,6 +11,7 @@
 
 #include <boost/core/demangle.hpp>
 #include <iostream>
+#include <typeinfo>
 
 template<class T1, class T2> struct Y1
 {
